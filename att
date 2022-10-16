@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
+    />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>HTML Lesson</title>
+  </head>
+  <body>
+    <form>
+      <button type="button" disabled>Click!</button>
+
+      <p>opening of the page</p>
+
+  <input type="range" id="page" name="page"
+         min="0" max="100">
+  <label for="page">page</label>
+<br>
+  <input type="checkbox" name="cars" value="BM">
+  <label for="cars"> I have a BM</label><br>
+<br>
+<label for="have car">license:</label>
+<input type="date" id="BM" name="BM">
+
+
+
+
+      
+    </form>
+    
+
+
+
+  </body>
+</html>
