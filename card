@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+ 
+
+  </style>
+  </head>
+<body>
+
+  <div class="card" style="width: 18rem;">
+    <img src="card.svg" class="card-img-top" alt="Card image cap">
+    <div class="card-body">
+      <h3 class="card-title">Card title</h3>
+      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    </div><hr>
+    <ul class="list-group list-group-flush">
+      <section>
+      <li class="list-group-item">An item</li>
+    </section>
+      <li class="list-group-item">A second item</li>
+      <section>
+      <li class="list-group-item">A third item</li>
+    </ul>
+    <div class="card-body">
+      <a href="#" class="card-link">Card link&ensp;</a>
+      <a href="#" class="card-link">Another link</a>
+    </div>
+  </div>
+
+ 
+</body>
+</html>
+
+
