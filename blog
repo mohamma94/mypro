@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Moh blog</title>
+    
+      
+      
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
+    />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>HTML Lesson</title>
+  </head>
+  <body>
+    <style>
+      body {
+        background-image: url('SEA.jpg');
+      }
+      </style>
+      
+        
+          
+<article>
+  <h1>Ocean Habitat</h1>
+  
+  <p style="background-image: url('SEA.jpg');">
+
+    From outer space Earth looks like an awesome blue marble. <br>
+    That’s because most of Earth’s surface—more than 70 percent—is covered by oceans.  </p>
+  
+</article>
+<footer>
+  <p>Author: nationalgeographic<br>
+    <a href="mailto:nationalgeographic@mail.com">hnationalgeographic@mail.com</a></p>
+  
+  
+</footer>
+<form action="action_page.php" style="border:1px solid #ccc">
+  <div class="container">
+    
+    <p>Please fill in this form to any new news.</p>
+    <hr>
+
+    <label for="email"><b>Email</b></label>
+    <input type="text" placeholder="Enter Email" name="email" required>
+    <input type="submit" value="Submit">
+</form>
+  </body>
+</html>
